@@ -1,0 +1,16 @@
+bootstrap color
+cd link 
+or  download bootstrap flie
+success (green type)
+info  (bule)
+drak (ash)
+light (white)
+danger (red)
+warning yewllo
+primary skybule
+
+grid system......
+class= row
+class= container-fluid ( div ar 100% space jonno)
+class= container (du side sapce raka)
+class= col-12 
